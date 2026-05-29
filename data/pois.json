@@ -1,0 +1,52 @@
+[
+  {
+    "id": "earth-prime",
+    "name": "Earth Prime",
+    "type": "planet",
+    "radius": 40, 
+    "tilt": 23.5,
+    "coordinates": { "x": 0, "y": 0, "z": 0 },
+    "details": {
+      "classification": "Terrestrial Planet",
+      "system": "Atlas",
+      "diameter": "12,742 km",
+      "gravity": "1.00 g",
+      "atmosphere": "Yes (Oxygen: Low - High)",
+      "temperatures": "Cold - Warm",
+      "weatherProfiles": "Rain, Snow, Sandstorms, Hurricanes, Wind",
+      "availableElements": "Silver (Ag), Gold (Au), Cobalt (Co), Iron (Fe), Magnesium (Mg)",
+      "liquidH2O": "Yes",
+      "glacialIce": "Yes",
+      "securityLevel": "High",
+      "dangersDetected": "None",
+      "startRating": "Easy",
+      "primaryColor": "#00ff66",
+      "secondaryColor": "#8ba1b5"
+    }
+  },
+  {
+    "id": "alpha-station",
+    "name": "Alpha Station",
+    "type": "trading_station",
+    "radius": 5,
+    "tilt": 0,
+    "coordinates": { "x": 25, "y": 5, "z": -40 },
+    "details": {
+      "classification": "Deep Space Outpost",
+      "system": "Atlas Prime",
+      "diameter": "3,000 km",
+      "gravity": "0.35 g",
+      "atmosphere": "Artificial Enclosure",
+      "temperatures": "Regulated Stable",
+      "weatherProfiles": "None (Internal Climate Controlled)",
+      "availableElements": "Refined Tritium, Silicon (Si), Copper (Cu)",
+      "liquidH2O": "Stored Reservoirs Only",
+      "glacialIce": "No",
+      "securityLevel": "Medium / Sector Patrol Present",
+      "dangersDetected": "Slight Solar Flare Exposure Risks",
+      "startRating": "Intermediate",
+      "primaryColor": "#00ff66",
+      "secondaryColor": "#005522"
+    }
+  }
+]
