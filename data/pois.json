@@ -22,8 +22,8 @@
       "securityLevel": "Dangerous Space",
       "dangersDetected": "NPCs, Extreme Gravity, No Accessible Ore",
       "startRating": "Impossible",
-      "primaryColor": "#a855f7",
-      "secondaryColor": "#4b5563"
+      "primaryColor": "#6d28d9",
+      "secondaryColor": "#4c1d95"
     }
   },
   {
@@ -48,8 +48,8 @@
       "securityLevel": "Hostile Environment",
       "dangersDetected": "NPCs, Extreme Gravity, No Accessible Ore",
       "startRating": "Impossible",
-      "primaryColor": "#a855f7",
-      "secondaryColor": "#1e3a8a"
+      "primaryColor": "#06b6d4",
+      "secondaryColor": "#0891b2"
     }
   },
   {
@@ -59,7 +59,7 @@
     "radius": 250,
     "tilt": 0,
     "has_rings": true,
-    "rotationSpeed": 0.02,
+    "rotationSpeed": 0.05,
     "coordinates": { "x": -14881, "y": 126, "z": 197 },
     "details": {
       "classification": "Gas Giant",
@@ -75,8 +75,8 @@
       "securityLevel": "Hostile Environment",
       "dangersDetected": "NPCs, Extreme Gravity, No Accessible Ore",
       "startRating": "Impossible",
-      "primaryColor": "#a855f7",
-      "secondaryColor": "#111827"
+      "primaryColor": "#1e3a8a",
+      "secondaryColor": "#172554"
     }
   },
   {
@@ -86,7 +86,7 @@
     "radius": 250,
     "tilt": 0,
     "has_rings": true,
-    "rotationSpeed": 0.05,
+    "rotationSpeed": 0.04,
     "coordinates": { "x": 117, "y": 15246, "z": 162 },
     "details": {
       "classification": "Gas Giant",
@@ -102,8 +102,8 @@
       "securityLevel": "High Peril Sector",
       "dangersDetected": "NPCs, Extreme Gravity, Heat Damage, No Ore",
       "startRating": "Impossible",
-      "primaryColor": "#ef4444",
-      "secondaryColor": "#7f1d1d"
+      "primaryColor": "#991b1b",
+      "secondaryColor": "#450a0a"
     }
   },
   {
@@ -112,7 +112,7 @@
     "type": "planet",
     "radius": 45,
     "tilt": 12.0,
-    "rotationSpeed": 0.18,
+    "rotationSpeed": 0.1,
     "coordinates": { "x": -527, "y": -14779, "z": -1442 },
     "details": {
       "classification": "Terrestrial Planet",
@@ -128,8 +128,8 @@
       "securityLevel": "Safe Basin",
       "dangersDetected": "Deep Oceans (Crush Depth Warning)",
       "startRating": "Easy",
-      "primaryColor": "#3b82f6",
-      "secondaryColor": "#1e3a8a"
+      "primaryColor": "#00d2ff",
+      "secondaryColor": "#0072ff"
     }
   },
   {
@@ -139,7 +139,7 @@
     "radius": 60,
     "tilt": 90.0,
     "has_rings": true,
-    "rotationSpeed": 0.04,
+    "rotationSpeed": 0.01,
     "coordinates": { "x": 629, "y": 15214, "z": 1338 },
     "details": {
       "classification": "Lava Planet",
@@ -155,8 +155,8 @@
       "securityLevel": "Hostile Patrols",
       "dangersDetected": "NPCs, Surface Lava Flows, Destructive Weather, Total Absence of Ice",
       "startRating": "Difficult",
-      "primaryColor": "#f97316",
-      "secondaryColor": "#431407"
+      "primaryColor": "#ea580c",
+      "secondaryColor": "#7c2d12"
     }
   },
   {
@@ -165,7 +165,7 @@
     "type": "moon",
     "radius": 9.5,
     "tilt": 0,
-    "rotationSpeed": 0.025,
+    "rotationSpeed": 0.3,
     "coordinates": { "x": -358, "y": 15246, "z": -134 },
     "details": {
       "classification": "Crater Moon",
@@ -181,8 +181,8 @@
       "securityLevel": "Contested Space",
       "dangersDetected": "Hostile Local NPCs",
       "startRating": "Moderate",
-      "primaryColor": "#94a3b8",
-      "secondaryColor": "#334155"
+      "primaryColor": "#6b7280",
+      "secondaryColor": "#374151"
     }
   },
   {
@@ -191,7 +191,7 @@
     "type": "planet",
     "radius": 45,
     "tilt": 21.2,
-    "rotationSpeed": 0.15,
+    "rotationSpeed": 0.08,
     "coordinates": { "x": -13900, "y": 1122, "z": 1487 },
     "details": {
       "classification": "Terrestrial Planet",
@@ -208,7 +208,7 @@
       "dangersDetected": "Thick Forest Obstacles, Sudden Heavy Storms",
       "startRating": "Easy",
       "primaryColor": "#22c55e",
-      "secondaryColor": "#14532d"
+      "secondaryColor": "#15803d"
     }
   },
   {
@@ -217,7 +217,7 @@
     "type": "moon",
     "radius": 9.5,
     "tilt": 2.0,
-    "rotationSpeed": 0.012,
+    "rotationSpeed": 0.25,
     "coordinates": { "x": -13907, "y": 1231, "z": 1677 },
     "details": {
       "classification": "Ice Moon",
@@ -233,8 +233,8 @@
       "securityLevel": "High Risk Frontier",
       "dangersDetected": "NPC Patrols, Extreme Frostbite, Absolute Scarcity of Stone",
       "startRating": "Difficult",
-      "primaryColor": "#38bdf8",
-      "secondaryColor": "#0f172a"
+      "primaryColor": "#93c5fd",
+      "secondaryColor": "#2563eb"
     }
   },
   {
@@ -243,7 +243,7 @@
     "type": "planet",
     "radius": 18,
     "tilt": 44.0,
-    "rotationSpeed": 0.22,
+    "rotationSpeed": 0.12,
     "coordinates": { "x": -14815, "y": -157, "z": -710 },
     "details": {
       "classification": "Terrestrial Planetoid",
@@ -259,8 +259,8 @@
       "securityLevel": "Unstable Sector",
       "dangersDetected": "Hostile Space Borne NPCs, Indigenous Saberoids, Highly Restrained Habitable Surfaces",
       "startRating": "Difficult",
-      "primaryColor": "#b45309",
-      "secondaryColor": "#451a03"
+      "primaryColor": "#d97706",
+      "secondaryColor": "#78350f"
     }
   },
   {
@@ -269,7 +269,7 @@
     "type": "moon",
     "radius": 9.5,
     "tilt": 0,
-    "rotationSpeed": 0.03,
+    "rotationSpeed": 0.35,
     "coordinates": { "x": 2961, "y": 15472, "z": -1844 },
     "details": {
       "classification": "Barren Moon",
@@ -285,8 +285,8 @@
       "securityLevel": "Pirate Sector",
       "dangersDetected": "Frequent Enemy NPCs, Critical Scarcity of Deep Ground Ore Layers",
       "startRating": "Difficult",
-      "primaryColor": "#64748b",
-      "secondaryColor": "#1e293b"
+      "primaryColor": "#9ca3af",
+      "secondaryColor": "#4b5563"
     }
   },
   {
@@ -295,7 +295,7 @@
     "type": "moon",
     "radius": 9.5,
     "tilt": 0,
-    "rotationSpeed": 0.015,
+    "rotationSpeed": 0.22,
     "coordinates": { "x": 13818, "y": 746, "z": 670 },
     "details": {
       "classification": "Exospheric Moon",
@@ -311,8 +311,8 @@
       "securityLevel": "Uncharted Territory",
       "dangersDetected": "Hostile Outpost NPCs, Extreme Surface Subzero Chill",
       "startRating": "Moderate",
-      "primaryColor": "#a1a1aa",
-      "secondaryColor": "#27272a"
+      "primaryColor": "#e5e7eb",
+      "secondaryColor": "#9ca3af"
     }
   },
   {
@@ -321,7 +321,7 @@
     "type": "moon",
     "radius": 9.5,
     "tilt": 5.1,
-    "rotationSpeed": 0.01,
+    "rotationSpeed": 0.18,
     "coordinates": { "x": 17377, "y": 656, "z": 1090 },
     "details": {
       "classification": "Rocky Moon",
@@ -337,8 +337,8 @@
       "securityLevel": "Patrolled Sector",
       "dangersDetected": "High Density of Wandering Aggressive NPCs",
       "startRating": "Moderate",
-      "primaryColor": "#d4d4d8",
-      "secondaryColor": "#52525b"
+      "primaryColor": "#cbd5e1",
+      "secondaryColor": "#64748b"
     }
   },
   {
@@ -347,7 +347,7 @@
     "type": "planet",
     "radius": 32.5,
     "tilt": 18.5,
-    "rotationSpeed": 0.12,
+    "rotationSpeed": 0.07,
     "coordinates": { "x": -1352, "y": 15458, "z": 1551 },
     "details": {
       "classification": "Terrestrial Planet",
@@ -363,8 +363,8 @@
       "securityLevel": "Maximum Threat Designation",
       "dangersDetected": "Elite Military NPCs, Swarming Saberoids, Acidic Rain Shell Damage, High Crush Gravity",
       "startRating": "Extremely Difficult",
-      "primaryColor": "#dc2626",
-      "secondaryColor": "#450a0a"
+      "primaryColor": "#b91c1c",
+      "secondaryColor": "#7f1d1d"
     }
   },
   {
@@ -373,7 +373,7 @@
     "type": "moon",
     "radius": 10,
     "tilt": 0,
-    "rotationSpeed": 0.02,
+    "rotationSpeed": 0.28,
     "coordinates": { "x": -303, "y": -14732, "z": -1541 },
     "details": {
       "classification": "Exospheric Moon",
@@ -389,8 +389,8 @@
       "securityLevel": "Unmonitored Ring Layer",
       "dangersDetected": "Scout Group NPCs",
       "startRating": "Moderate",
-      "primaryColor": "#cbd5e1",
-      "secondaryColor": "#475569"
+      "primaryColor": "#d1d5db",
+      "secondaryColor": "#6b7280"
     }
   },
   {
@@ -399,7 +399,7 @@
     "type": "planet",
     "radius": 30,
     "tilt": 9.3,
-    "rotationSpeed": 0.08,
+    "rotationSpeed": 0.09,
     "coordinates": { "x": -16872, "y": 484, "z": 1717 },
     "details": {
       "classification": "Terrestrial Planet",
@@ -415,8 +415,8 @@
       "securityLevel": "Hazardous Wilderness",
       "dangersDetected": "NPC Incursions, Total Sandstorm Blackout Visibility, Low Superficial Ore Concentrations",
       "startRating": "Moderate",
-      "primaryColor": "#ca8a04",
-      "secondaryColor": "#422006"
+      "primaryColor": "#f59e0b",
+      "secondaryColor": "#b45309"
     }
   },
   {
@@ -425,7 +425,7 @@
     "type": "planet",
     "radius": 29.5,
     "tilt": 24.0,
-    "rotationSpeed": 0.16,
+    "rotationSpeed": 0.11,
     "coordinates": { "x": 13916, "y": 701, "z": 577 },
     "details": {
       "classification": "Desert Planet",
@@ -441,8 +441,8 @@
       "securityLevel": "Combat Zone Area",
       "dangersDetected": "Heavy NPC Fortresses, Savage Burrowing Saberoids, Destructive Atmospheric Discharges",
       "startRating": "Difficult",
-      "primaryColor": "#ea580c",
-      "secondaryColor": "#4c1d95"
+      "primaryColor": "#f97316",
+      "secondaryColor": "#c2410c"
     }
   },
   {
@@ -451,7 +451,7 @@
     "type": "moon",
     "radius": 9.5,
     "tilt": 0,
-    "rotationSpeed": 0.018,
+    "rotationSpeed": 0.2,
     "coordinates": { "x": -744, "y": -14749, "z": -1461 },
     "details": {
       "classification": "Exospheric Moon",
@@ -467,8 +467,8 @@
       "securityLevel": "Scout Perimeter",
       "dangersDetected": "Roaming Recon NPCs, Drastic Radiative Deep Cools",
       "startRating": "Moderate",
-      "primaryColor": "#94a3b8",
-      "secondaryColor": "#1e293b"
+      "primaryColor": "#9ca3af",
+      "secondaryColor": "#4b5563"
     }
   },
   {
@@ -477,7 +477,7 @@
     "type": "moon",
     "radius": 10.5,
     "tilt": 1.2,
-    "rotationSpeed": 0.035,
+    "rotationSpeed": 0.24,
     "coordinates": { "x": -1533, "y": 15543, "z": 1475 },
     "details": {
       "classification": "Exospheric Moon",
@@ -494,7 +494,7 @@
       "dangersDetected": "Minor Localized NPCs, Migrating Saberoid Elements",
       "startRating": "Easy",
       "primaryColor": "#10b981",
-      "secondaryColor": "#064e3b"
+      "secondaryColor": "#047857"
     }
   },
   {
@@ -503,7 +503,7 @@
     "type": "planet",
     "radius": 60,
     "tilt": 23.5,
-    "rotationSpeed": 0.14,
+    "rotationSpeed": 0.06,
     "coordinates": { "x": 17159, "y": 542, "z": 1052 },
     "details": {
       "classification": "Terrestrial Planet",
@@ -520,7 +520,7 @@
       "dangersDetected": "None (Protected Sector Hub Structure)",
       "startRating": "Easy",
       "primaryColor": "#16a34a",
-      "secondaryColor": "#164e63"
+      "secondaryColor": "#15803d"
     }
   },
   {
@@ -545,8 +545,8 @@
       "securityLevel": "Low System Monitoring",
       "dangersDetected": "Inconsequential Local Outlaw NPCs",
       "startRating": "Easy",
-      "primaryColor": "#06b6d4",
-      "secondaryColor": "#0c4a6e"
+      "primaryColor": "#22d3ee",
+      "secondaryColor": "#0284c7"
     }
   },
   {
@@ -555,7 +555,7 @@
     "type": "moon",
     "radius": 9.5,
     "tilt": 0,
-    "rotationSpeed": 0.022,
+    "rotationSpeed": 0.26,
     "coordinates": { "x": 1497, "y": -14901, "z": 1468 },
     "details": {
       "classification": "Exospheric Moon",
@@ -571,8 +571,8 @@
       "securityLevel": "Contested Basin Border",
       "dangersDetected": "Hostile Boundary Patrol NPCs",
       "startRating": "Moderate",
-      "primaryColor": "#a1a1aa",
-      "secondaryColor": "#3f3f46"
+      "primaryColor": "#9ca3af",
+      "secondaryColor": "#4b5563"
     }
   },
   {
@@ -648,6 +648,106 @@
       "startRating": "Easy",
       "primaryColor": "#00ff66",
       "secondaryColor": "#ffaa00"
+    }
+  },
+  {
+    "id": "sama-braddock-station",
+    "name": "SAMA Braddock Station",
+    "type": "trading_station",
+    "radius": 3,
+    "tilt": 0,
+    "coordinates": { "x": -14799.36, "y": -171.57, "z": -730.58 },
+    "details": {
+      "classification": "NPC Shipbuilding Outpost",
+      "system": "SAMA Faction",
+      "diameter": "6 km",
+      "gravity": "Artificial",
+      "atmosphere": "Pressurized Enclosure",
+      "temperatures": "Regulated Stable Environment",
+      "weatherProfiles": "None",
+      "availableElements": "SAMA component procurement trade matrix terminal arrays",
+      "liquidH2O": "No",
+      "glacialIce": "No",
+      "securityLevel": "Patrolled NPC Sector",
+      "dangersDetected": "None",
+      "startRating": "Easy",
+      "primaryColor": "#ffff0a",
+      "secondaryColor": "#3b3b00"
+    }
+  },
+  {
+    "id": "sama-brunswick-station",
+    "name": "SAMA Brunswick Station",
+    "type": "trading_station",
+    "radius": 3,
+    "tilt": 0,
+    "coordinates": { "x": -5.41, "y": 15181.15, "z": 627.17 },
+    "details": {
+      "classification": "NPC Shipbuilding Outpost",
+      "system": "SAMA Faction",
+      "diameter": "6 km",
+      "gravity": "Artificial",
+      "atmosphere": "Pressurized Enclosure",
+      "temperatures": "Regulated Stable Environment",
+      "weatherProfiles": "None",
+      "availableElements": "SAMA component procurement trade matrix terminal arrays",
+      "liquidH2O": "No",
+      "glacialIce": "No",
+      "securityLevel": "Patrolled NPC Sector",
+      "dangersDetected": "None",
+      "startRating": "Easy",
+      "primaryColor": "#ffff0a",
+      "secondaryColor": "#3b3b00"
+    }
+  },
+  {
+    "id": "sama-redding-station",
+    "name": "SAMA Redding Station",
+    "type": "trading_station",
+    "radius": 3,
+    "tilt": 0,
+    "coordinates": { "x": -1371.25, "y": 15432.75, "z": 1594.79 },
+    "details": {
+      "classification": "NPC Shipbuilding Outpost",
+      "system": "SAMA Faction",
+      "diameter": "6 km",
+      "gravity": "Artificial",
+      "atmosphere": "Pressurized Enclosure",
+      "temperatures": "Regulated Stable Environment",
+      "weatherProfiles": "None",
+      "availableElements": "SAMA component procurement trade matrix terminal arrays",
+      "liquidH2O": "No",
+      "glacialIce": "No",
+      "securityLevel": "Patrolled NPC Sector",
+      "dangersDetected": "None",
+      "startRating": "Easy",
+      "primaryColor": "#ffff0a",
+      "secondaryColor": "#3b3b00"
+    }
+  },
+  {
+    "id": "sama-rivet-point-station",
+    "name": "SAMA Rivet Point Station",
+    "type": "trading_station",
+    "radius": 3,
+    "tilt": 0,
+    "coordinates": { "x": -4996.52, "y": -1307.12, "z": -5289.85 },
+    "details": {
+      "classification": "NPC Shipbuilding Outpost",
+      "system": "SAMA Faction",
+      "diameter": "6 km",
+      "gravity": "Artificial",
+      "atmosphere": "Pressurized Enclosure",
+      "temperatures": "Regulated Stable Environment",
+      "weatherProfiles": "None",
+      "availableElements": "SAMA component procurement trade matrix terminal arrays",
+      "liquidH2O": "No",
+      "glacialIce": "No",
+      "securityLevel": "Patrolled NPC Sector",
+      "dangersDetected": "None",
+      "startRating": "Easy",
+      "primaryColor": "#ffff0a",
+      "secondaryColor": "#3b3b00"
     }
   }
 ]
